@@ -6,3 +6,4 @@
     #print("acesso denegado")
 
 ciclo = ("POO", "DISEÑO", "BDATOS2", "MDS", "MA2")
+notas = ("10", "10", "10", "10", "10")
